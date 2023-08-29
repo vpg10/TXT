@@ -1,0 +1,5 @@
+name : Konstantine Dmitriev;
+age : 38;
+pets_qty : 1;
+f_salary : 4000 eur.
+
