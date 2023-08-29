@@ -1,0 +1,13 @@
+skill_1: GIT;
+skill_2: Linux_terminal;
+skill_3: Postman;
+skill_4: SQL;
+skill_5: DevTools;
+skill_6: Pyton;
+skill_7: PyCharm;
+skill_8: Charles;
+skill_9: Fidler;
+skill_10: Android_Studio;
+skill_11: DBeaver;
+skill_12: VSCode.
+

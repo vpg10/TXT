@@ -1,0 +1,6 @@
+favorite_move: The_silence_of_the_lambs;
+favorite_series: Westworld;
+favorite_food: meet;
+favorite_time_of_year: winter;
+country_i_want_to_visit: Iceland.
+
